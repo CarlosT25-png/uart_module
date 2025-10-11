@@ -24,7 +24,7 @@ module baud_tick_generator(
     input logic clk,
     input logic rst_n, // active low reset
     
-    output reg tick
+    output logic tick
     );
     
     
