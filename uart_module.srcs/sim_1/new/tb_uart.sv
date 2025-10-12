@@ -30,7 +30,7 @@
 //////////////////////////////////////////////////////////////////////////////////
 
 
-module tb_uart();
+module tb_uart_tx();
     logic clk, rst_n, i_tx_start;
     logic [7:0] i_tx_data;
     logic o_tx_serial, o_tx_busy;

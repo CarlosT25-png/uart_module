@@ -5,5 +5,7 @@ May 22 2025
 C:/VivadoProjects/uart_module/uart_module.sim/sim_1/behav/xsim/glbl.v,1741209010,verilog,,,,glbl,,uvm,,,,,,
 C:/VivadoProjects/uart_module/uart_module.srcs/sim_1/new/tb_baud_tick_generator.sv,1760247050,systemVerilog,,,,tb_baud_tick_generator,,uvm,../../../../../../Xilinx/2025.1/Vivado/data/rsb/busdef,,,,,
 C:/VivadoProjects/uart_module/uart_module.srcs/sim_1/new/tb_uart.sv,1760284802,systemVerilog,,,,tb_uart,,uvm,../../../../../../Xilinx/2025.1/Vivado/data/rsb/busdef,,,,,
-C:/VivadoProjects/uart_module/uart_module.srcs/sources_1/new/baud_tick_generator.sv,1760247118,systemVerilog,,C:/VivadoProjects/uart_module/uart_module.srcs/sources_1/new/uart_tx.sv,,baud_tick_generator,,uvm,../../../../../../Xilinx/2025.1/Vivado/data/rsb/busdef,,,,,
+C:/VivadoProjects/uart_module/uart_module.srcs/sim_1/new/tb_uart_rx.sv,1760294523,systemVerilog,,,,tb_uart_rx,,uvm,../../../../../../Xilinx/2025.1/Vivado/data/rsb/busdef,,,,,
+C:/VivadoProjects/uart_module/uart_module.srcs/sources_1/new/baud_tick_generator.sv,1760287286,systemVerilog,,C:/VivadoProjects/uart_module/uart_module.srcs/sources_1/new/uart_rx.sv,,baud_tick_generator,,uvm,../../../../../../Xilinx/2025.1/Vivado/data/rsb/busdef,,,,,
+C:/VivadoProjects/uart_module/uart_module.srcs/sources_1/new/uart_rx.sv,1760294323,systemVerilog,,C:/VivadoProjects/uart_module/uart_module.srcs/sim_1/new/tb_uart_rx.sv,,uart_rx,,uvm,../../../../../../Xilinx/2025.1/Vivado/data/rsb/busdef,,,,,
 C:/VivadoProjects/uart_module/uart_module.srcs/sources_1/new/uart_tx.sv,1760286256,systemVerilog,,C:/VivadoProjects/uart_module/uart_module.srcs/sim_1/new/tb_uart.sv,,uart_tx,,uvm,../../../../../../Xilinx/2025.1/Vivado/data/rsb/busdef,,,,,

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="tb_uart_rx_behav.wdb" id="1">
+         <top_modules>
+            <top_module name="glbl" />
+            <top_module name="tb_uart_rx" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="0.000000 us"></ZoomStartTime>
+      <ZoomEndTime time="2,644.000001 us"></ZoomEndTime>
+      <Cursor1Time time="1,000.999991 us"></Cursor1Time>
+   </zoom_setting>
+   <column_width_setting>
+      <NameColumnWidth column_width="210"></NameColumnWidth>
+      <ValueColumnWidth column_width="139"></ValueColumnWidth>
+   </column_width_setting>
+   <WVObjectSize size="8" />
+   <wvobject fp_name="/tb_uart_rx/clk" type="logic">
+      <obj_property name="ElementShortName">clk</obj_property>
+      <obj_property name="ObjectShortName">clk</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_uart_rx/rst_n" type="logic">
+      <obj_property name="ElementShortName">rst_n</obj_property>
+      <obj_property name="ObjectShortName">rst_n</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_uart_rx/i_rx_serial" type="logic">
+      <obj_property name="ElementShortName">i_rx_serial</obj_property>
+      <obj_property name="ObjectShortName">i_rx_serial</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_uart_rx/o_rx_data" type="array">
+      <obj_property name="ElementShortName">o_rx_data[7:0]</obj_property>
+      <obj_property name="ObjectShortName">o_rx_data[7:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_uart_rx/o_rx_data_valid" type="logic">
+      <obj_property name="ElementShortName">o_rx_data_valid</obj_property>
+      <obj_property name="ObjectShortName">o_rx_data_valid</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_uart_rx/CLK_PERIOD" type="array">
+      <obj_property name="ElementShortName">CLK_PERIOD[31:0]</obj_property>
+      <obj_property name="ObjectShortName">CLK_PERIOD[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_uart_rx/BAUD_RATE" type="array">
+      <obj_property name="ElementShortName">BAUD_RATE[31:0]</obj_property>
+      <obj_property name="ObjectShortName">BAUD_RATE[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_uart_rx/BIT_PERIOD" type="array">
+      <obj_property name="ElementShortName">BIT_PERIOD[31:0]</obj_property>
+      <obj_property name="ObjectShortName">BIT_PERIOD[31:0]</obj_property>
+   </wvobject>
+</wave_config>
