@@ -28,13 +28,9 @@ The design is fully implemented and has been verified using basic testbenches to
 ## 🏛️ Architecture & Modules
 
 The UART is comprised of three core modules, which are integrated in a top-level wrapper.
-
-<br>
-
-![image](https'//user-images.githubusercontent.com/8936949/196024950-c68910b8-2023-45a8-944a-e4905f88451d.png')
-*(A generic UART block diagram for reference)*
-
-<br>
+- UART Trasmitter
+- UART Receiver
+- Baud Rate Generator
 
 ### Key Modules
 
